@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605271110126REXPY</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260527111012A78EYE</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>10 PÍLDORAS SALUDABLES</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Para una vida mejor.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Josemi Lorenzo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El objetivo es guiar al alumnado en la investigación, curación de contenidos y creación de un decálogo audiovisual sobre hábitos de vida saludables (actividad física, alimentación, higiene del sueño, descanso activo, ...).
+A través de la expresión corporal, la dramatización, el ritmo, ...,  y el uso técnico de la edición de vídeo con croma (CapCut), el recurso aplica las pautas del Diseño Universal para el Aprendizaje (DUA) para asegurar la inclusión, la motivación y el desarrollo de la competencia ciudadana y mediática en entornos digitales.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779863919938</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1779781613975-vqhh0m0aw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INICIO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779781613975-vqhh0m0aw</odePageId>
+      <odeBlockId>block-1779781653045-4jbjendut</odeBlockId>
+      <blockName>PROYECTO</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779781613975-vqhh0m0aw</odePageId>
+          <odeBlockId>block-1779781653045-4jbjendut</odeBlockId>
+          <odeIdeviceId>idevice-1779781653044-kcw7ke5vc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1024px;"><img src="{{context_path}}/content/resources/Portada.jpeg" width="1024" height="572" alt="" />
+<figcaption class="figcaption"><span class="author">Creado por Josemi Lorenzo mediante Inteligencia Artificial (Gemini Image Generator).</span>. <span class="title"><em>10 píldoras saludables</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><img src="{{context_path}}/content/resources/byncsa.png" width="172" height="60" alt="" style="float: right;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779781653044-kcw7ke5vc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1024px;\"><img src=\"{{context_path}}/content/resources/Portada.jpeg\" width=\"1024\" height=\"572\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Creado por Josemi Lorenzo mediante Inteligencia Artificial (Gemini Image Generator).</span>. <span class=\"title\"><em>10 píldoras saludables</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><img src=\"{{context_path}}/content/resources/byncsa.png\" width=\"172\" height=\"60\" alt=\"\" style=\"float: right;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>a40ccef0-b406-43e1-b109-898726305457</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN Y DESCRIPCIÓN</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>a40ccef0-b406-43e1-b109-898726305457</odePageId>
+      <odeBlockId>block-1779697232328-stxwj4gv9</odeBlockId>
+      <blockName>PRESENTACIÓN</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>a40ccef0-b406-43e1-b109-898726305457</odePageId>
+          <odeBlockId>block-1779697232328-stxwj4gv9</odeBlockId>
+          <odeIdeviceId>idevice-1779697232324-h00kow30q</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://view.genially.com/69f1a67033f678c345933258" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>a40ccef0-b406-43e1-b109-898726305457</odePageId>
+      <odeBlockId>block-1779697367825-jpf82s6lp</odeBlockId>
+      <blockName>DESCRIPCIÓN</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>a40ccef0-b406-43e1-b109-898726305457</odePageId>
+          <odeBlockId>block-1779697367825-jpf82s6lp</odeBlockId>
+          <odeIdeviceId>idevice-1779697367822-ernkrntdt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El alumnado investigará sobre hábitos de vida saludables (actividad física, alimentación, higiene de pantallas, descanso,...) para transformarlos en escenas expresivas y coreografías editadas mediante la técnica del Croma (pantalla verde). Que se expondrán en una "Gala", donde se elegirán los vídeos más destacados para utilizarlos como elementos para la difusión de hábitos de vida saludable</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779697367822-ernkrntdt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El alumnado investigará sobre hábitos de vida saludables (actividad física, alimentación, higiene de pantallas, descanso,...) para transformarlos en escenas expresivas y coreografías editadas mediante la técnica del Croma (pantalla verde). Que se expondrán en una \"Gala\", donde se elegirán los vídeos más destacados para utilizarlos como elementos para la difusión de hábitos de vida saludable</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779697988181-dn6azm71t</odePageId>
+  <odeParentPageId>a40ccef0-b406-43e1-b109-898726305457</odeParentPageId>
+  <pageName>ATENCIÓN: PROTECCIÓN DE DATOS Y DERECHOS DIGITALES</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ATENCIÓN: PROTECCIÓN DE DATOS Y DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779697988181-dn6azm71t</odePageId>
+      <odeBlockId>block-1779697998717-8v3odycmb</odeBlockId>
+      <blockName>ATENCIÓN: PROTECCIÓN DE DATOS Y DERECHOS DIGITALES</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779697988181-dn6azm71t</odePageId>
+          <odeBlockId>block-1779697998717-8v3odycmb</odeBlockId>
+          <odeIdeviceId>idevice-1779697998714-k4s0groaa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Aquí podéis ver la principales pautas explícitas para la <strong>protección de datos personales,</strong> las garantías de los <strong>derechos digitales</strong>  y la <strong>gestión responsable de la huella digital</strong> al grabar y editar contenido con smartphones en el aula.</p>
+<figure class="exe-figure position-center" style="width: 597px;"><img src="{{context_path}}/content/resources/Buenas prácticas.png" title="Buenas prácticas" width="597" height="840" alt="Directrices para la protección de datos digitales" />
+<figcaption class="figcaption"><span class="author">Jose Miguel Lorenzo</span>. <span class="title"><em>Protección de tatos</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-ND</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779697998714-k4s0groaa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Aquí podéis ver la principales pautas explícitas para la <strong>protección de datos personales,</strong> las garantías de los <strong>derechos digitales</strong>  y la <strong>gestión responsable de la huella digital</strong> al grabar y editar contenido con smartphones en el aula.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 597px;\"><img src=\"{{context_path}}/content/resources/Buenas prácticas.png\" title=\"Buenas prácticas\" width=\"597\" height=\"840\" alt=\"Directrices para la protección de datos digitales\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Jose Miguel Lorenzo</span>. <span class=\"title\"><em>Protección de tatos</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-ND</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779698918802-ku79imtua</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779698918802-ku79imtua</odePageId>
+      <odeBlockId>block-1779699178298-j854gt0qw</odeBlockId>
+      <blockName>PRODUCTO FINAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779698918802-ku79imtua</odePageId>
+          <odeBlockId>block-1779699178298-j854gt0qw</odeBlockId>
+          <odeIdeviceId>idevice-1779699178297-5d3k2ns7t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El objetivo central es que el alumnado diseñe, interprete y edite un video utilizando la técnica de croma para difundir un <strong>decálogo de hábitos saludables</strong>. A demás, a nivel motriz, <span style="text-decoration: underline;">trabajarán el lenguaje del gesto, la postura y el ritmo</span>  para comunicar mensajes sin necesidad de lenguaje verbal excesivo. A nivel digital, aprenderán a utilizar aplicaciones como <strong>CapCut</strong> para la sustitución de <span style="text-decoration: underline;">fondos verdes</span>, búsqueda de imágenes con licencias libres y montaje audiovisual. El contenido del decálogo se basará en <strong>fuentes científicas </strong>para asegurar el rigor.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779699178297-5d3k2ns7t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El objetivo central es que el alumnado diseñe, interprete y edite un video utilizando la técnica de croma para difundir un <strong>decálogo de hábitos saludables</strong>. A demás, a nivel motriz, <span style=\"text-decoration: underline;\">trabajarán el lenguaje del gesto, la postura y el ritmo</span>  para comunicar mensajes sin necesidad de lenguaje verbal excesivo. A nivel digital, aprenderán a utilizar aplicaciones como <strong>CapCut</strong> para la sustitución de <span style=\"text-decoration: underline;\">fondos verdes</span>, búsqueda de imágenes con licencias libres y montaje audiovisual. El contenido del decálogo se basará en <strong>fuentes científicas </strong>para asegurar el rigor.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779701122172-528nf8k5q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>HERRAMIENTAS PARA LA SELECCIÓN DE INFORMACIÓN</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS PARA LA SELECCIÓN DE INFORMACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>HERRAMIENTAS PARA LA SELECCIÓN DE INFORMACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779701122172-528nf8k5q</odePageId>
+      <odeBlockId>block-1779701209462-5iqu4c41g</odeBlockId>
+      <blockName>PADLET SELECCIÓN DE INFORMACIÓN</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779701122172-528nf8k5q</odePageId>
+          <odeBlockId>block-1779701209462-5iqu4c41g</odeBlockId>
+          <odeIdeviceId>idevice-1779701209457-9vu0btxvc</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/jlorgar206/expresion-corporal-y-crhoma-nc2jlow7god9hgsr" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779701122172-528nf8k5q</odePageId>
+      <odeBlockId>block-1779701563599-vj78zwz5x</odeBlockId>
+      <blockName>PÁGINAS PARA CONSULTAR</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779701122172-528nf8k5q</odePageId>
+          <odeBlockId>block-1779701563599-vj78zwz5x</odeBlockId>
+          <odeIdeviceId>idevice-1779701563598-c0un7i9yl</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://wibki.com/Jos%C3%A9MiguelLorenzoGarc%C3%ADa?tab=Jos%C3%A9MiguelLorenzoGarc%C3%ADa" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779779491192-ri1jzs6sc</odePageId>
+  <odeParentPageId>page-1779701122172-528nf8k5q</odeParentPageId>
+  <pageName>LINEA TEMPORAL</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LINEA TEMPORAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779779491192-ri1jzs6sc</odePageId>
+      <odeBlockId>block-1779779587526-60qijupey</odeBlockId>
+      <blockName>PASOS A SEGUIR</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779779491192-ri1jzs6sc</odePageId>
+          <odeBlockId>block-1779779587526-60qijupey</odeBlockId>
+          <odeIdeviceId>idevice-1779779587523-gz3q8fmxn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 696px;"><img src="{{context_path}}/content/resources/Linea temporal.png" width="696" height="1102" alt="" />
+<figcaption class="figcaption"><span class="author">Josemi Lorenzo </span>. <span class="title"><em>Línea temporal</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779779587523-gz3q8fmxn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 696px;\"><img src=\"{{context_path}}/content/resources/Linea temporal.png\" width=\"696\" height=\"1102\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Josemi Lorenzo </span>. <span class=\"title\"><em>Línea temporal</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779862795707-a30kza601</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779862795707-a30kza601</odePageId>
+      <odeBlockId>block-1779780339806-lstq5pyp1</odeBlockId>
+      <blockName>INSTRUMETOS DE EVALUACIÓN</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779862795707-a30kza601</odePageId>
+          <odeBlockId>block-1779780339806-lstq5pyp1</odeBlockId>
+          <odeIdeviceId>idevice-1779780339803-7frkvjusv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Pinchando <a href="https://docs.google.com/document/d/1XPZYUdI8mIG1WFWIOFZlr1s5676sQCkx/edit?usp=sharing&amp;ouid=112202241726907761555&amp;rtpof=true&amp;sd=true" title="">aquí</a>, podéis ver los instrumentos de evaluación y las rúbricas asociadas a ellas.</p>
+<p>Para la coevaluación del trabajo de los compañeros deberéis de entra en:</p>
+<p><a href="http://www.connect.idoceo">www.connect.idoceo.net</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779780339803-7frkvjusv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Pinchando <a href=\"https://docs.google.com/document/d/1XPZYUdI8mIG1WFWIOFZlr1s5676sQCkx/edit?usp=sharing&amp;ouid=112202241726907761555&amp;rtpof=true&amp;sd=true\" title=\"\">aquí</a>, podéis ver los instrumentos de evaluación y las rúbricas asociadas a ellas.</p>\n<p>Para la coevaluación del trabajo de los compañeros deberéis de entra en:</p>\n<p><a href=\"http://www.connect.idoceo\">www.connect.idoceo.net</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779862795707-a30kza601</odePageId>
+      <odeBlockId>block-1779862944772-kv2ifi7yt</odeBlockId>
+      <blockName>HERRAMIENTAS PARA LA EVALUACIÓN</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779862795707-a30kza601</odePageId>
+          <odeBlockId>block-1779862944772-kv2ifi7yt</odeBlockId>
+          <odeIdeviceId>idevice-1779862944763-o4gr4uob5</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779862944763-o4gr4uob5" title="COEVALUACIÓN" href="{{context_path}}/content/resources/COEVALUACIÓN.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/COEVALUACIÓN.png" height="128" width="128" title="COEVALUACIÓN" alt="COEVALUACIÓN" titlelink="" author="Josemi Lorenzo" authorlink="" license="CC0" licenselink="http://creativecommons.org/publicdomain/zero/1.0/deed"/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1779862944763-o4gr4uob5" title="Rúbrica Coevaluaición" href="{{context_path}}/content/resources/R COEV.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/R COEV.png" height="128" width="128" title="Rúbrica Coevaluaición" alt="Rúbrica Coevaluaición" titlelink="" author="Josemi Lorenzo" authorlink="" license="Dominio público" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1779862944763-o4gr4uob5" title="Lista de control" href="{{context_path}}/content/resources/LISTA CONTROL.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/LISTA CONTROL.png" height="128" width="128" title="Lista de control" alt="Lista de control" titlelink="" author="Josemi Lorenzo" authorlink="" license="Dominio público" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1779862944763-o4gr4uob5" title="R. Heteroevaluación" href="{{context_path}}/content/resources/HETEROEV.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/HETEROEV.png" height="128" width="128" title="R. Heteroevaluación" alt="R. Heteroevaluación" titlelink="" author="Josemi Lorenzo" authorlink="" license="Dominio público" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779862944763-o4gr4uob5","img_0":{"img":"{{context_path}}/content/resources/COEVALUACIÓN.png","thumbnail":"{{context_path}}/content/resources/COEVALUACIÓN.png","title":"COEVALUACIÓN","linktitle":"","author":"Josemi Lorenzo","linkauthor":"","license":"CC0"},"img_1":{"img":"{{context_path}}/content/resources/R COEV.png","thumbnail":"{{context_path}}/content/resources/R COEV.png","title":"Rúbrica Coevaluaición","linktitle":"","author":"Josemi Lorenzo","linkauthor":"","license":"Dominio público"},"img_2":{"img":"{{context_path}}/content/resources/LISTA CONTROL.png","thumbnail":"{{context_path}}/content/resources/LISTA CONTROL.png","title":"Lista de control","linktitle":"","author":"Josemi Lorenzo","linkauthor":"","license":"Dominio público"},"img_3":{"img":"{{context_path}}/content/resources/HETEROEV.png","thumbnail":"{{context_path}}/content/resources/HETEROEV.png","title":"R. Heteroevaluación","linktitle":"","author":"Josemi Lorenzo","linkauthor":"","license":"Dominio público"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779779849622-13m1bpbw5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779779849622-13m1bpbw5</odePageId>
+      <odeBlockId>block-1779779888593-avd4fwtpf</odeBlockId>
+      <blockName>OBSERVACIONES Y RECOMENDACIONES</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779779849622-13m1bpbw5</odePageId>
+          <odeBlockId>block-1779779888593-avd4fwtpf</odeBlockId>
+          <odeIdeviceId>idevice-1779779888589-z0nwnklyi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1440px;">
+<p style="text-align: justify;">Esta situación de aprendizaje transforma el gimnasio en un plató de cine donde el alumnado de 4º de ESO analiza sus hábitos diarios; combinando el lenguaje del cuerpo con la magia del crhoma y la evidencia científica para realizar videos divulgativos sobre hábitos de vida saludables. Así conectar los desafíos de expresión corporal y la educación para la salud,</p>
+<p style="text-align: justify;">Por otra parte, la evaluación se convierte en una gala de premios y un análisis justificado del trabajo propio y de los compañeros.</p>
+<p style="text-align: justify;">Para la edición de videos se utiliza la app CapCut, gratuita y de fácil uso.</p>
+<ul style="text-align: justify;">
+<li><strong>Vinculación de Criterios de Evaluación:</strong></li>
+</ul>
+<p style="text-align: justify;"><strong>-</strong> <strong>Actividad 1</strong> (Investigación y creación de un decálogo de hábitos saludables con ayuda de la información recogida en Padlet y pruebas en el uso de croma): Vinculada al CE.EF.4.1 (identificación de factores saludables y curación digital).<br /><strong>- Actividad 2</strong> (Mini-coreografías rítmicas): Vinculada al CE.EF.5.2 (creación colectiva usando el ritmo y el espacio).<br /><strong>- Actividad 3</strong> (Rodaje con Croma y edición en CapCut): Vinculada al CE.EF.5.3 (registro y edición audiovisual aplicando seguridad digital).<br /><strong>- Actividad 4</strong> (Gala de proyección y evaluación compartida): Vinculada al CE.EF.5.4 (valoración crítica y formativa de producciones artísticas).</p>
+</figure>
+<figure class="exe-figure position-center" style="width: 1440px;"><img src="{{context_path}}/content/resources/Criterios y tareas.png" width="1440" height="931" alt="" />
+<figcaption class="figcaption"><span class="author">Josemi Lorenzo</span>. <span class="title"><em>Criterios de evalución asociados a cada tarea</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779779888589-z0nwnklyi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1440px;\">\n<p style=\"text-align: justify;\">Esta situación de aprendizaje transforma el gimnasio en un plató de cine donde el alumnado de 4º de ESO analiza sus hábitos diarios; combinando el lenguaje del cuerpo con la magia del crhoma y la evidencia científica para realizar videos divulgativos sobre hábitos de vida saludables. Así conectar los desafíos de expresión corporal y la educación para la salud,</p>\n<p style=\"text-align: justify;\">Por otra parte, la evaluación se convierte en una gala de premios y un análisis justificado del trabajo propio y de los compañeros.</p>\n<p style=\"text-align: justify;\">Para la edición de videos se utiliza la app CapCut, gratuita y de fácil uso.</p>\n<ul style=\"text-align: justify;\">\n<li><strong>Vinculación de Criterios de Evaluación:</strong></li>\n</ul>\n<p style=\"text-align: justify;\"><strong>-</strong> <strong>Actividad 1</strong> (Investigación y creación de un decálogo de hábitos saludables con ayuda de la información recogida en Padlet y pruebas en el uso de croma): Vinculada al CE.EF.4.1 (identificación de factores saludables y curación digital).<br /><strong>- Actividad 2</strong> (Mini-coreografías rítmicas): Vinculada al CE.EF.5.2 (creación colectiva usando el ritmo y el espacio).<br /><strong>- Actividad 3</strong> (Rodaje con Croma y edición en CapCut): Vinculada al CE.EF.5.3 (registro y edición audiovisual aplicando seguridad digital).<br /><strong>- Actividad 4</strong> (Gala de proyección y evaluación compartida): Vinculada al CE.EF.5.4 (valoración crítica y formativa de producciones artísticas).</p>\n</figure>\n<figure class=\"exe-figure position-center\" style=\"width: 1440px;\"><img src=\"{{context_path}}/content/resources/Criterios y tareas.png\" width=\"1440\" height=\"931\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Josemi Lorenzo</span>. <span class=\"title\"><em>Criterios de evalución asociados a cada tarea</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779780706834-clnzb2n9z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779780706834-clnzb2n9z</odePageId>
+      <odeBlockId>block-1779780855106-vcf67yl2l</odeBlockId>
+      <blockName>CRÉDITOS Y LICENCIA DEL RECURSO</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779780706834-clnzb2n9z</odePageId>
+          <odeBlockId>block-1779780855106-vcf67yl2l</odeBlockId>
+          <odeIdeviceId>idevice-1779780855100-cseeulk7g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">👤 <span style="text-decoration: underline;"><strong>Autoría y Titularidad</strong></span><br />Autor: José Miguel Lorenzo<br />Perfil profesional: Profesor/a de Educación Física en Educación Secundaria Obligatoria.<br /><span style="text-decoration: underline;"></span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline;">🏞️</span> <strong><span style="text-decoration: underline;">Contextualización</span></strong>: Recurso Educativo Abierto (REA) integrado dentro de la Situación de Aprendizaje "10 Píldoras Saludables" para 4º de ESO (Comunidad Autónoma de Andalucía).<br />Año: 2026.</p>
+<p style="text-align: justify;">📝 <strong><span style="text-decoration: underline;">Descripción General</span></strong><br />El objetivo es guiar al alumnado en la investigación, curación de contenidos y creación de un decálogo audiovisual sobre hábitos de vida saludables (actividad física, alimentación, higiene del sueño, descanso activo, ...).</p>
+<p style="text-align: justify;">A través de la expresión corporal, la dramatización, el ritmo, ...,  y el uso técnico de la edición de vídeo con croma (CapCut), el recurso aplica las pautas del Diseño Universal para el Aprendizaje (DUA) para asegurar la inclusión, la motivación y el desarrollo de la competencia ciudadana y mediática en entornos digitales.</p>
+<p style="text-align: justify;">⚖️ <strong><span style="text-decoration: underline;">Licencia de Uso</span></strong><br /></p>
+<p style="text-align: justify;"> <img src="{{context_path}}/content/resources/byncsa.png" width="217" height="76" alt="" style="display: block; margin-left: auto; margin-right: auto;" /><br /><span style="color: #e03e2d;"></span></p>
+<p style="text-align: justify;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779780855100-cseeulk7g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">👤 <span style=\"text-decoration: underline;\"><strong>Autoría y Titularidad</strong></span><br />Autor: José Miguel Lorenzo<br />Perfil profesional: Profesor/a de Educación Física en Educación Secundaria Obligatoria.<br /><span style=\"text-decoration: underline;\"></span></p>\n<p style=\"text-align: justify;\"><span style=\"text-decoration: underline;\">🏞️</span> <strong><span style=\"text-decoration: underline;\">Contextualización</span></strong>: Recurso Educativo Abierto (REA) integrado dentro de la Situación de Aprendizaje \"10 Píldoras Saludables\" para 4º de ESO (Comunidad Autónoma de Andalucía).<br />Año: 2026.</p>\n<p style=\"text-align: justify;\">📝 <strong><span style=\"text-decoration: underline;\">Descripción General</span></strong><br />El objetivo es guiar al alumnado en la investigación, curación de contenidos y creación de un decálogo audiovisual sobre hábitos de vida saludables (actividad física, alimentación, higiene del sueño, descanso activo, ...).</p>\n<p style=\"text-align: justify;\">A través de la expresión corporal, la dramatización, el ritmo, ...,  y el uso técnico de la edición de vídeo con croma (CapCut), el recurso aplica las pautas del Diseño Universal para el Aprendizaje (DUA) para asegurar la inclusión, la motivación y el desarrollo de la competencia ciudadana y mediática en entornos digitales.</p>\n<p style=\"text-align: justify;\">⚖️ <strong><span style=\"text-decoration: underline;\">Licencia de Uso</span></strong><br /></p>\n<p style=\"text-align: justify;\"> <img src=\"{{context_path}}/content/resources/byncsa.png\" width=\"217\" height=\"76\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><br /><span style=\"color: #e03e2d;\"></span></p>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779780706834-clnzb2n9z</odePageId>
+      <odeBlockId>block-1779872890483-usiwcamkt</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779780706834-clnzb2n9z</odePageId>
+          <odeBlockId>block-1779872890483-usiwcamkt</odeBlockId>
+          <odeIdeviceId>idevice-1779872890481-boim9xseg</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">10 PÍLDORAS SALUDABLES</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">El objetivo es guiar al alumnado en la investigación, curación de contenidos y creación de un decálogo audiovisual sobre hábitos de vida saludables (actividad física, alimentación, higiene del sueño, descanso activo, ...).
+A través de la expresión corporal, la dramatización, el ritmo, ...,  y el uso técnico de la edición de vídeo con croma (CapCut), el recurso aplica las pautas del Diseño Universal para el Aprendizaje (DUA) para asegurar la inclusión, la motivación y el desarrollo de la competencia ciudadana y mediática en entornos digitales.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Josemi Lorenzo</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
